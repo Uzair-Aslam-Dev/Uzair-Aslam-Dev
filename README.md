@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 2nd Year **Software Engineering** student at **FAST NUCES**, Karachi — CGPA **3.85**
+- 🎓 3rd Year **Software Engineering** student at **FAST NUCES**, Karachi
 - 🔭 Currently building **RESTful APIs** with Node.js, Express & MongoDB
 - 🌱 Learning **DevOps** — Docker, CI/CD, and Linux systems
 - 💡 Interested in **Backend Development**, **API Design**, and **Linux Systems**
